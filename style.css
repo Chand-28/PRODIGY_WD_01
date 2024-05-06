@@ -81,5 +81,5 @@ nav{
     background: linear-gradient(45deg,rgb(5, 57, 105),rgb(152, 165, 192));
 }
 .nav-link:hover {
-    background-color: #bcbdc6; /* Dark Red */
+    background-color: #bcbdc6; 
   }
